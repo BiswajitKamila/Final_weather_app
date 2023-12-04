@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Final_weather_app/static/css/main.99c8a44c.css",
+    "main.js": "/Final_weather_app/static/js/main.03f978c3.js",
+    "static/js/787.82cdd233.chunk.js": "/Final_weather_app/static/js/787.82cdd233.chunk.js",
+    "index.html": "/Final_weather_app/index.html",
+    "main.99c8a44c.css.map": "/Final_weather_app/static/css/main.99c8a44c.css.map",
+    "main.03f978c3.js.map": "/Final_weather_app/static/js/main.03f978c3.js.map",
+    "787.82cdd233.chunk.js.map": "/Final_weather_app/static/js/787.82cdd233.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99c8a44c.css",
+    "static/js/main.03f978c3.js"
+  ]
+}
